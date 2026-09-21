@@ -1,0 +1,10 @@
+fiction 5 
+nonfiction 0 
+science 0 
+history 0 
+hihi 0 
+hoho 0 
+quit 0 
+q 0 
+deo 0 
+d 0 

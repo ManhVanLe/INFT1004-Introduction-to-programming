@@ -1,0 +1,10 @@
+fiction 25 
+nonfiction 20 
+science 15 
+history 21 
+deo 29 
+hehe 4 
+hoho 3 
+haha 9 
+ol 30 
+d 1 
